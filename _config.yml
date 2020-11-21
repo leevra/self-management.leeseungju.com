@@ -1,18 +1,18 @@
 ### Site info:
-title: 바른금융연구소
+title: 시간가계부
 tagline: 무직자소액대출, 인터넷대출정보사이트
 author: 관리자
 email: help@leeseungju.com
 description: "은행별 아파트담보대출금리비교 정보, 대학생, 무직자소액대출 쉬운곳, 대출이자비교표 제공 인터넷대출사이트." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "바른금융연구소, 무직자소액대출, 인터넷대출정보사이트"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://finance.leeseungju.com" # the base hostname & protocol for your site
+url: "https://self-management.leeseungju.com" # the base hostname & protocol for your site
 locale: kr_KO
 permalink: /:title
 
 ### Personal info and site tools info:
 github_username:  leevra
-disqus_shortname: finance.leeseungju.com
+disqus_shortname: self-management.leeseungju.com
 favicon:     "/images/favicon.ico"
 aboutme: 안녕하세요. # these are shown on aboutme-sidebar.
 aboutme_photo: /images/profile.jpg # your photo.
