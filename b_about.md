@@ -6,8 +6,7 @@ permalink: /about/
 ---
 
 
-### Freshman21 is a Jekyll theme.
-
+### 
 
 
 
