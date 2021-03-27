@@ -14,7 +14,7 @@ permalink: /:title
 github_username:  leevra
 disqus_shortname: self-management.leeseungju.com
 favicon:     "/images/favicon.ico"
-aboutme: 크로노스, 카이로스<br>사람답게 살자<br>매일 30분 꾸준히 하면<br>매일 하루를 아낀다<br><br>책 읽다가 죽자 # these are shown on aboutme-sidebar.
+aboutme: 크로노스, 카이로스<br>사람답게 살자<br>매일 30분 꾸준히 하면<br>매일 하루를 아낀다<b>책 읽다가 죽자</b> # these are shown on aboutme-sidebar.
 aboutme_photo: /images/23421.jpg # your photo.
 google_analytics_key:   # put YOUR key here to enable tracking! (blank to disable)
 
