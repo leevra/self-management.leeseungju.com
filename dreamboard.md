@@ -16,7 +16,6 @@ permalink: /dreamboard
 
 <img src="/images/KakaoTalk_20210330_100037803.gif" alt="">
 
-
 <img src="/images/KakaoTalk_20210327_090108119.gif" alt="">
 
 <img src="/images/a3990aee2561514611503daed2b54ef2.gif" alt="">
