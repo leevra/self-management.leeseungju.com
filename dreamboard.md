@@ -6,6 +6,15 @@ permalink: /dreamboard
 
 <h1>드림보드</h1>
 
+<img src="/images/KakaoTalk_20210330_100037803_01.gif" alt="">
+
+<img src="/images/KakaoTalk_20210330_100037803_02.gif" alt="">
+
+<img src="/images/KakaoTalk_20210330_100037803_03.gif" alt="">
+
+<img src="/images/KakaoTalk_20210330_100037803_04.gif" alt="">
+
+<img src="/images/KakaoTalk_20210330_100037803.gif" alt="">
 
 
 <img src="/images/KakaoTalk_20210327_090108119.gif" alt="">
